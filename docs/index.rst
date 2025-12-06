@@ -6,7 +6,7 @@
 Welcome to django_citylock_pkg's documentation!
 ===============================================
 
-..automodule:: django_cityloc_pkg_KeyLah007
+.. automodule:: django_cityloc_pkg_KeyLah007
    :members:
 
 .. toctree::
